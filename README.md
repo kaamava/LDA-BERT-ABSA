@@ -1,5 +1,5 @@
 # LDA-BERT-SA
-## Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change
+## 
 
 This repository contains the code and pre-trained models for our paper Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change
 
