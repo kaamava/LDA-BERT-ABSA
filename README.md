@@ -33,8 +33,8 @@ domain.
 
 Although not as computationally robust as some machine learning models, LDA provides quick results that are suitable for many applications. Specifically for keyword extraction, in most settings the results are similar to those of BERT in a fraction of the time.
 
-<a id="tfidf"></a>
-
+### • PSO
+<a target="_blank" href="https://en.wikipedia.org/wiki/Particle_swarm_optimization">Particle swarm optimization</a> (PSO) can be used to find optimal values for the parameters by using a randomly chosen aspect level labeled dataset.
 ## Train
 ## Results
 *These two parts will be released after the conference announces the acceptance results.*
