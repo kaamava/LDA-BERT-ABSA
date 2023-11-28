@@ -5,6 +5,7 @@ This repository contains the code and pre-trained models for our paper Improving
 
 
 
+
 ## Overview
 
 - Overview
@@ -26,7 +27,8 @@ We proposes **LMLM**, i.e., a simple yet effective **lexical-level masking strat
 
 We investigate the temporal misalignment of the PLMs from the lexical level and observe that the words with salient lexical semantic change contribute significantly to the temporal problems. 
 
-![](pipeline.png)
+![image](https://github.com/kaamava/LDA-BERT-ABSA/assets/106901273/98e7b9ad-d455-41b8-b42d-17b45d2c2f52)
+
 
 
 
