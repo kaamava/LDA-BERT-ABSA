@@ -1,5 +1,5 @@
 ## LDA-BERT-ABSA
-This repository contains part of the code and pre-trained models for our paper "A LDA Model Augmented with BERT for Aspect Level Sentiment Analysis", which has been submitted to ICJAI2024. The complete code will be released right after the conference announces the acceptance results.
+This repository contains part of the code and pre-trained models for our paper "An LDA Model Augmented with BERT for Aspect Level Sentiment Analysis", which has been submitted to ICJAI2024. The complete code will be released right after the conference announces the acceptance results.
 
 ## Contents
 - Abstract
